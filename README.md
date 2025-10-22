@@ -1,6 +1,47 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0366d6&height=180&section=header&text=React%20Native%20TODO%20App&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0.76-blue?logo=react" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-51.0.0-black?logo=expo" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Convex-Backend-success?logo=convex" alt="Convex"/>
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20iOS-blue" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Mode-Light%20|%20Dark-darkslategray" alt="Theme Modes"/>
+</p>
+
+---
+
+## 🌟 Overview
+
+This is a **cross-platform TODO App** built with **React Native (Expo)** and powered by **Convex** as the backend.  
+It features a **beautiful, minimal, and responsive UI** with full support for **light and dark modes**, making it perfect for daily productivity and an elegant user experience.
+
+---
+
+## ✨ Features
+
+✅ Add, edit, and delete tasks effortlessly  
+✅ Mark tasks as complete or pending  
+✅ Light 🌞 and Dark 🌙 mode with smooth transitions  
+✅ Persistent storage using Convex backend  
+✅ Real-time sync between devices  
+✅ Beautiful and minimal UI built with React Native components  
+✅ Fully responsive across Android and iOS  
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React Native + Expo |
+| **Backend** | Convex |
+| **Styling** | React Native StyleSheet / Tailwind (optional) |
+| **State Management** | React Hooks + Context API |
+| **Theme Handling** | Dynamic Color Scheme (useColorScheme hook) |
+
+---
 
 ## Get started
 
