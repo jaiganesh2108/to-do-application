@@ -43,6 +43,14 @@ It features a **beautiful, minimal, and responsive UI** with full support for **
 
 ---
 
+## 🧠 Key Concepts
+
+Convex Functions: Handle CRUD operations for todos in the backend.
+
+Dynamic Theming: Uses React Native’s useColorScheme hook for real-time theme switching.
+
+Optimized UI: Minimalist design with smooth animations and intuitive interactions.
+
 ## Get started
 
 1. Install dependencies
@@ -90,4 +98,9 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-Thank You!
+🧑‍💻 Author
+
+Jai Ganesh H
+🚀 Passionate React Native Developer | Full Stack Enthusiast
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,100:2ea44f&height=120&section=footer"/> </div>
