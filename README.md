@@ -101,6 +101,6 @@ Join our community of developers creating universal apps.
 🧑‍💻 Author
 
 ### Jai Ganesh H
-### 🚀 Passionate React Native Developer | Full Stack Enthusiast
+### 🚀 Passionate React Native Developer | Full Stack Enthusiast | stuffs creator
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,100:2ea44f&height=120&section=footer"/> </div>
