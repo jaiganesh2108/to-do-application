@@ -1,4 +1,4 @@
-import { View, TextInput, Text, TouchableOpacity } from 'react-native'
+import { View, Alert, TextInput, TouchableOpacity } from 'react-native'
 import React, { useState } from 'react'
 import useTheme from '@/hooks/useTheme';
 import { createHomeStyles } from '@/assets/styles/home.styles';
@@ -10,15 +10,19 @@ import { Ionicons } from '@expo/vector-icons';
 const TodoInput = () => {
     const {colors} = useTheme();
     const homeStyles = createHomeStyles(colors);
-
     const [newTodo, setNewTodo] = useState("");
     const addTodo = useMutation(api.todos.addTodo);
     const handleAddTodo = async () => {
-        if(newTodo){
-            
-        }
-    } 
-
+        if(newTodo.trim()){
+            try {
+                await addTodo({text: newTodo.trim()})
+                setNewTodo("");
+            } catch (error) {
+                console.log("Errror adding a todo", error);
+                Alert.alert("Error", "Failed to add todo.");
+            }
+        } 
+    }
 
     return (
     <View style={homeStyles.inputSection}>
@@ -44,4 +48,4 @@ const TodoInput = () => {
   )
 }
 
-export default TodoInput
+export default TodoInput;
