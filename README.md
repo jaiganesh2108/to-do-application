@@ -17,6 +17,13 @@
 This is a **cross-platform TODO App** built with **React Native (Expo)** and powered by **Convex** as the backend.  
 It features a **beautiful, minimal, and responsive UI** with full support for **light and dark modes**, making it perfect for daily productivity and an elegant user experience.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bae2c236-b1bf-4a07-ba04-352b95a82541" width="200" />
+  <img src="https://github.com/user-attachments/assets/5a1a1189-4d1d-498f-b601-6d20a27f2da2" width="200" />
+  <img src="https://github.com/user-attachments/assets/1682e47f-604e-487e-9dd3-8cd96c03a061" width="200" />
+  <img src="https://github.com/user-attachments/assets/09cc76a8-e6be-4d0f-bf20-c063a321c31f" width="200" />
+</p>
+
 ---
 
 ## ✨ Features
